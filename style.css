@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+}
+
+.quiz-field {
+    padding: 10px;
+    margin: 10px auto;
+    width: 90%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.landing-images {
+    height: 200px;
+    width: 80%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+button {
+    width: 100px;
+    margin: 20px auto;
+}
